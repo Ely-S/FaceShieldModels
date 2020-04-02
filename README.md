@@ -15,10 +15,13 @@ As we learn ideal printer parameters, they will be documented here.
 
 
 
-	Infill: 
+	Infill: 20%
 	Layer Height: 0.3mm
 
 
+### Notes
+
+Once the base is done, the Creality Ender-3 can run at 175% speed.
 
 ## Files
 
