@@ -17,6 +17,7 @@ As we learn ideal printer parameters, they will be documented here.
 
 	Infill: 20%
 	Layer Height: 0.3mm
+	Bed Temp: 95c
 
 
 ### Notes
